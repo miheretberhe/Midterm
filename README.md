@@ -1,0 +1,2 @@
+# Midterm
+A Secure Data Transmission App with Hashing and Encryption
